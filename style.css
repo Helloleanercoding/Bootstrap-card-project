@@ -1,0 +1,13 @@
+.card{
+    transition: all 0.3s;
+    padding: 10px;
+}
+
+
+.card :hover{
+    transform: scale(1.15);
+    border-color: rgb(178, 26, 26);
+}
+.display-5{
+    padding: 50px;
+}
